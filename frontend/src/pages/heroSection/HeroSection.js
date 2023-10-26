@@ -63,7 +63,7 @@ const HeroSection=()=>{
 
   return (
     <div className='hero-container'>
-    <video src="/images/pexels_videos_1893629 (2160p).mp4" className='hero_img' />
+    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmF0dXJlJTIwYmVhY2h8ZW58MHx8MHx8fDA%3D" alt='home' className='hero_img' />
     <h1>ADVENTURE AWAITS</h1>
     <p>What are you waiting for?</p>
     <form className='search'>
