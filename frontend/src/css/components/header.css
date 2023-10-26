@@ -1,0 +1,217 @@
+header{
+    height:50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* padding:0px 30px; */
+    position: fixed;
+    background: linear-gradient(90deg,#1c1b1b,#1a1717);
+    z-index: 999;
+    width: 100%;
+    padding: 0px 12px;
+    user-select: none;
+    top: 0;
+}
+header>.signInBtnContainer{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+}
+header>.signInBtnContainer>.userDropdown{
+    /* background-color: blue; */
+    height: max-content;
+    width: 170px;
+    position: absolute;
+    top: 53px;
+    right: 5px;
+    border-radius: 10px;
+    box-shadow: 0.5px 0.5px 1px rgb(220, 220, 227);
+    overflow: hidden;
+}
+.hideUserDropdown{
+    display: none;
+}
+.showUserDropdown{
+    display: block;
+}
+header>.signInBtnContainer>.userDropdown>.eachOption{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    background-color: white;
+}
+header>.signInBtnContainer>.userDropdown>.eachOption>a{
+    color: black;
+    text-decoration: none;
+}
+header>.signInBtnContainer>.userDropdown>.eachOption:hover{
+    background-color: rgb(235, 235, 238);
+}
+header>.signInBtnContainer>button{
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    outline: none;
+    background-color: transparent;
+    padding: 5px 9px;
+    transition: all .3s ease-out;
+    border: 1px solid white;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    transition:all 1s;
+}
+header>.signInBtnContainer>.userLoggedBtn:hover{
+    color: black;
+}
+header>.signInBtnContainer>button:hover{
+    background-color: white;
+}
+header>.signInBtnContainer>button:hover .loginBtnText{
+    color: black;
+}
+header>.signInBtnContainer>.userLoggedBtn{
+    background-color: gray;
+}
+header>.signInBtnContainer>button>a{
+    text-decoration: none;
+    color: white;
+}
+header>.logoContainer{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    flex-grow: 5;
+}
+header>.logoContainer>a{
+    text-decoration: none;
+    color:white;
+    font-weight:900;
+}
+header>nav{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: -4;
+    font-weight: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+header>nav>ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+header>nav>ul>li{
+   padding:0px 30px;
+}
+header>nav>ul>li>a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    padding: 5px 0px;
+}
+header>nav>ul>li>a:hover{
+   border-bottom:2px solid white ;
+}
+#expand-btn{
+    position: relative;
+    right: 30px;
+    font-size: 25px;
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#expand-toggler{
+    display: none;
+}
+header>.logoContainer>label>#hambergerIcon{
+    display: none;
+ }
+ header>.logoContainer>label>#crossIcon{
+    display: none;
+ }
+@media screen and (max-width:840px){
+    header>.signInBtnContainer{
+        display: none;
+    }
+    header>.logoContainer{
+        height: 77px;
+        width: 100%;
+    }
+    header>.logoContainer>label>img{
+        height: 100%;
+        position: absolute;
+    }
+    header>.logoContainer>label>#hambergerIcon{
+       display: flex;
+    }
+    header>.logoContainer>label>#crossIcon{
+       display: none;
+    }
+    header{
+        display: block;
+        padding: 0;
+    }
+    #burger-icon{
+        opacity: 1;
+    }
+    header>.logoContainer{
+        justify-content: space-between;
+        padding-left: 30px;
+    }
+    header>nav{
+        height: max-content;
+        position: relative;
+        z-index: -8;
+        display: none;
+        /* transform: translateY(-130%); */
+        /* transition:transform 2s; */
+    }
+    header>nav>ul{
+        flex-direction: column;
+        align-items: center;
+    }
+    header>nav>ul>li{
+        padding: 20px 0px;
+    }
+    #expand-toggler:checked ~ * nav{
+        /* transform: translateY(0%);    */
+        display: flex;
+        /* transition:transform 2s; */
+    }
+    #expand-toggler:checked ~ header{
+        height: max-content;
+    } 
+    #expand-toggler:checked ~ * #hambergerIcon{
+        display: none;
+    }
+    #expand-toggler:checked ~ * #crossIcon{
+        display: flex;
+    }
+    #expand-toggler:checked ~ * .signInBtnContainer{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    header{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
+

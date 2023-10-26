@@ -1,0 +1,134 @@
+
+.loginContainer{
+    position: relative;
+    width: 450px;
+    background-color: white;
+    height:max-content;
+    padding-top: 40px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    box-shadow: rgba(0,0,0,0.15) 1.95px 1.95px 5.6px 1.95px;
+    /* top: 45px; */
+    margin:114px auto 38px auto;
+}
+.loginContainer h2{
+   text-align: center;
+}
+.loginContainer .short{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 1rem;
+}
+.loginContainer form{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.loginContainer form label{
+    font-size: 1rem;
+    color: black;
+    font-weight: bold;
+    padding-top: 30px;
+    margin-bottom: 2px;
+    text-align: left;
+    margin-left: 25px;
+}
+.loginContainer form input{
+    width:370px ;
+    height: 20px;
+    border-radius: 40px;
+    border: none;
+    box-shadow: rgba(0,0,0,0.15) 1.95px 1.95px 2.6px 1.95px;
+    padding: 20px;
+    font-size: 1rem;
+    margin-left: 25px;
+    outline: none;
+}
+.loginContainer p{
+    color: grey;
+    text-align: center;
+}
+.loginContainer p span{
+    color: #4e6bff;
+    cursor: pointer;
+}
+.loginContainer p span a{
+    text-decoration: none;
+    color: #4e6bff;
+}
+.loginContainer form input:hover{
+    border: 1px solid #1a1717;
+}
+.loginContainer form .btn-2{
+    height: 48px;
+    margin-top: 20px;
+    border-radius: 40px;
+    border: none;
+    background: linear-gradient(90deg,#1c1b1b,#1a1717);
+    font-size: 1.3rem;
+    color: white;
+    width: 300px;
+    margin-left: 45px;
+}
+
+
+@media (max-width:480px){
+    .loginContainer{
+        position: relative;
+        width: 315px;
+        background-color: white;
+        height:max-content;
+        margin: auto;
+        padding-bottom: 30px;
+        padding-top: 40px;
+        border-radius: 10px;
+        box-shadow: rgba(0,0,0,0.15) 1.95px 1.95px 5.6px 1.95px;
+        /* transition:; */
+    }
+    .loginContainer form input{
+        width:260px ;
+        height: 20px;
+        border-radius: 40px;
+        border: none;
+        box-shadow: rgba(0,0,0,0.15) 1.95px 1.95px 2.6px 1.95px;
+        padding: 20px;
+        font-size: 1rem;
+        margin-left: 15px;
+        /* border: 1px solid #4e6bff; */
+    
+    }
+    .loginContainer form .btn-2{
+        width: 200px;
+        margin-left: 30px;
+    }
+    @media (max-width:338px){
+        .loginContainer{
+            position: relative;
+            width: 250px;
+            background-color: white;
+            height:max-content;
+            margin: auto;
+            padding-bottom: 30px;
+            padding-top: 40px;
+            border-radius: 10px;
+            box-shadow: rgba(0,0,0,0.15) 1.95px 1.95px 5.6px 1.95px;
+            /* transition:; */
+        }
+        .loginContainer form input{
+            width:150px ;
+            height: 20px;
+            border-radius: 40px;
+            border: none;
+            box-shadow: rgba(0,0,0,0.15) 1.95px 1.95px 2.6px 1.95px;
+            padding: 20px;
+            font-size: 1rem;
+            /* margin-left: 25px; */
+            /* border: 1px solid #4e6bff; */
+            
+        }
+        .loginContainer form .btn-2{
+            width: 150px;
+        }
+    }
+    
+}

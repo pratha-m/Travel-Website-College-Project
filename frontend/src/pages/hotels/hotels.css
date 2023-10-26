@@ -1,0 +1,94 @@
+.hotels{
+    margin-top: 50px;
+    padding: 20px;
+    min-height: 51.5vh;
+}
+.hotels h1{
+    margin: 10px;
+    font-size: 65px;
+}
+.hotels h1 span{
+    color: #006ce4;
+}
+.hotels .eachHotel{
+    display: flex;
+    border: 1px solid rgba(0,0,0,0.2);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 30px;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+.hotels .eachHotel .eachHotelImg{
+    height: 300px;
+}
+.hotels .eachHotel .eachHotelImg img{
+    height: 100%;
+}
+.hotels .eachHotel .eachHotelText{
+    margin-left: 10px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    flex: 1;
+}
+.hotels .eachHotel .eachHotelText .textLeft .hotelName{
+    font-size: 40px;
+    font-weight: bold;
+    color: #006ce4;
+}
+.hotels .eachHotel .eachHotelText .textLeft .hotelLocation{
+    font-size: 19px;
+    color: #006ce4;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.hotels .eachHotel .eachHotelText .textLeft .bedType{
+    font-size: 19px;
+    margin-top: 20px;
+}
+.hotels .eachHotel .eachHotelText .textRight{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding: 20px;
+}
+.hotels .eachHotel .eachHotelText .textRight .price{
+    padding: 15px 0px;
+    font-size: 25px;
+}
+.hotels .eachHotel .eachHotelText .textRight .rating{
+    flex: 1;
+    display: flex;
+    justify-content:flex-end;    
+}
+.hotels .eachHotel .eachHotelText .textRight .rating .ratingReview{
+    padding: 0px 10px;
+}
+.hotels .eachHotel .eachHotelText .textRight .rating .ratingScore{
+    height: 35px;
+    width: 35px;
+    background-color: #737980;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+.hotels .eachHotel .eachHotelText .textRight .checkAvBtn button{
+    padding: 12px 26px;
+    border-radius: 2px;
+    outline: none;
+    border: 1px solid #242424;
+    cursor: pointer;
+    background-color: #242424;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 10px;
+    transition: all 1s;
+}
+.hotels .eachHotel .eachHotelText .textRight .checkAvBtn button:hover{
+    background-color: #fff;
+    color: #242424;
+    border: 1px solid #242424;
+}

@@ -1,0 +1,772 @@
+[
+    {
+        "HotelName": "Waterfront Suites Phuket by Centara",
+        "Location": "Karon Beach, Thailand",
+        "Rating": 8.5,
+        "ReviewScore": "Very Good",
+        "NumberOfRooms": 143,
+        "RoomScore": 9.0,
+        "RoomType": "Junior Suite",
+        "BedType": "1 queen bed",
+        "RoomPrice": "178,109",
+        "City": "Karon Beach",
+        "Country": "Thailand"  
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Boathouse Hua Hin",
+        "Location": "Hua Hin, Thailand",
+        "Rating": 8.4,
+        "ReviewScore": "Very Good",
+        "NumberOfRooms": 38,
+        "RoomScore": 8.8,
+        "RoomType": "Villa with Garden View",
+        "BedType": "1 king bed",
+        "RoomPrice": "274,424",
+        "City": "Hua Hin",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "The Shore at Katathani - Adults only",
+        "Location": "Kata Beach, Thailand",
+        "Rating": 9.2,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 36,
+        "RoomScore": 9.5,
+        "RoomType": "Beachfront Villa with Private Pool",
+        "BedType": "1 king bed",
+        "RoomPrice": "400,272",
+        "City": "Kata Beach",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Kata Rocks",
+        "Location": "Kata Beach, Thailand",
+        "Rating": 8.9,
+        "ReviewScore": "Excellent",
+        "NumberOfRooms": 24,
+        "RoomScore": 9.0,
+        "RoomType": "Sky Pool Villa",
+        "BedType": "1 king bed",
+        "RoomPrice": "520,544",
+        "City": "Kata Beach",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Le Meridien Chiang Rai Resort, Thailand",
+        "Location": "Chiang Rai, Thailand",
+        "Rating": 8.8,
+        "ReviewScore": "Excellent",
+        "NumberOfRooms": 159,
+        "RoomScore": 9.1,
+        "RoomType": "Deluxe River View",
+        "BedType": "1 king bed",
+        "RoomPrice": "266,449",
+        "City": "Chiang Rai",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Amari Phuket",
+        "Location": "Patong Beach, Thailand",
+        "Rating": 8.9,
+        "ReviewScore": "Excellent",
+        "NumberOfRooms": 381,
+        "RoomScore": 9.1,
+        "RoomType": "Superior King Room with Sea View",
+        "BedType": "1 king bed",
+        "RoomPrice": "296,401",
+        "City": "Patong Beach",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Mango Lagoon Place",
+        "Location": "Rawai Beach, Thailand",
+        "Rating": 8.5,
+        "ReviewScore": "Very Good",
+        "NumberOfRooms": 13,
+        "RoomScore": 8.9,
+        "RoomType": "Deluxe King Room",
+        "BedType": "1 king bed",
+        "RoomPrice": "65,496",
+        "City": "Rawai Beach",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Centara Grand Beach Resort & Villas Hua Hin",
+        "Location": "Hua Hin, Thailand",
+        "Rating": 8.7,
+        "ReviewScore": "Excellent",
+        "NumberOfRooms": 249,
+        "RoomScore": 9.0,
+        "RoomType": "Deluxe King Room with Pool View",
+        "BedType": "1 king bed",
+        "RoomPrice": "342,329",
+        "City": "Hua Hin",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Hyatt Regency Hua Hin",
+        "Location": "Hua Hin, Thailand",
+        "Rating": 8.7,
+        "ReviewScore": "Excellent",
+        "NumberOfRooms": 213,
+        "RoomScore": 9.0,
+        "RoomType": "King Room with Ocean View",
+        "BedType": "1 king bed",
+        "RoomPrice": "420,603",
+        "City": "Hua Hin",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Railay Bay Resort & Spa",
+        "Location": "Railay Beach, Thailand",
+        "Rating": 8.2,
+        "ReviewScore": "Very Good",
+        "NumberOfRooms": 141,
+        "RoomScore": 8.5,
+        "RoomType": "Deluxe Cottage",
+        "BedType": "1 king bed",
+        "RoomPrice": "202,395",
+        "City": "Railay Beach",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "The Sarann",
+        "Location": "Chaweng Beach, Thailand",
+        "Rating": 8.9,
+        "ReviewScore": "Excellent",
+        "NumberOfRooms": 49,
+        "RoomScore": 9.1,
+        "RoomType": "Deluxe Double Room with Sea View",
+        "BedType": "1 king bed",
+        "RoomPrice": "336,414",
+        "City": "Chaweng Beach",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Panviman Resort - SHA Plus",
+        "Location": "Chaweng Noi Beach, Thailand",
+        "Rating": 9.0,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 71,
+        "RoomScore": 9.3,
+        "RoomType": "Superior Double or Twin Room with Sea View",
+        "BedType": "2 twin beds",
+        "RoomPrice": "360,876",
+        "City": "Chaweng Noi Beach",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Bophut Beach Resort",
+        "Location": "Bophut, Thailand",
+        "Rating": 7.7,
+        "ReviewScore": "Good",
+        "NumberOfRooms": 85,
+        "RoomScore": 8.2,
+        "RoomType": "Deluxe Double or Twin Room with Garden View",
+        "BedType": "1 king bed",
+        "RoomPrice": "163,572",
+        "City": "Bophut",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Tango Luxe Beach Villa",
+        "Location": "Lamai, Thailand",
+        "Rating": 9.1,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 18,
+        "RoomScore": 9.5,
+        "RoomType": "Deluxe Double Room with Private Pool",
+        "BedType": "1 king bed",
+        "RoomPrice": "490,680",
+        "City": "Lamai",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Four Seasons Tented Camp Golden Triangle - SHA Extra Plus",
+        "Location": "Chiang Rai, Thailand",
+        "Rating": 9.3,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 15,
+        "RoomScore": 9.6,
+        "RoomType": "Deluxe Tent with King Bed",
+        "BedType": "1 king bed",
+        "RoomPrice": "1,194,342",
+        "City": "Chiang Rai",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Trisara",
+        "Location": "Nai Thon Beach, Thailand",
+        "Rating": 9.4,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 39,
+        "RoomScore": 9.7,
+        "RoomType": "Ocean View Pool Room",
+        "BedType": "1 king bed",
+        "RoomPrice": "883,935",
+        "City": "Nai Thon Beach",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Keemala",
+        "Location": "Kamala, Thailand",
+        "Rating": 9.2,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 36,
+        "RoomScore": 9.5,
+        "RoomType": "Clay Pool Cottage",
+        "BedType": "1 king bed",
+        "RoomPrice": "786,669",
+        "City": "Kamala",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Anantara Mai Khao Phuket Villas",
+        "Location": "Mai Khao Beach, Thailand",
+        "Rating": 9.2,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 91,
+        "RoomScore": 9.5,
+        "RoomType": "Pool Villa",
+        "BedType": "1 king bed",
+        "RoomPrice": "800,544",
+        "City": "Mai Khao Beach",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Pullman Phuket Panwa Beach Resort - SHA Extra Plus",
+        "Location": "Panwa Beach, Thailand",
+        "Rating": 8.5,
+        "ReviewScore": "Very Good",
+        "NumberOfRooms": 211,
+        "RoomScore": 8.9,
+        "RoomType": "Deluxe Double Room with Sea View",
+        "BedType": "1 king bed",
+        "RoomPrice": "280,176",
+        "City": "Panwa Beach",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Amari Vogue Krabi",
+        "Location": "Tubkaek Beach, Thailand",
+        "Rating": 9.0,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 53,
+        "RoomScore": 9.3,
+        "RoomType": "Deluxe Double or Twin Room with Sea View",
+        "BedType": "2 twin beds",
+        "RoomPrice": "345,404",
+        "City": "Tubkaek Beach",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Four Seasons Resort Chiang Mai",
+        "Location": "Mae Rim, Thailand",
+        "Rating": 9.0,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 98,
+        "RoomScore": 9.4,
+        "RoomType": "Rice Terrace Pavilion with King Bed",
+        "BedType": "1 king bed",
+        "RoomPrice": "1,049,176",
+        "City": "Mae Rim",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "137 Pillars House Chiang Mai",
+        "Location": "Wat Gate, Chiang Mai",
+        "Rating": 9.4,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 30,
+        "RoomScore": 9.6,
+        "RoomType": "Rajah Brooke Suite",
+        "BedType": "1 king bed",
+        "RoomPrice": "634,507",
+        "City": "Wat Gate",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "The Pavana Chiang Mai Resort",
+        "Location": "Mae Ann, Thailand",
+        "Rating": 8.8,
+        "ReviewScore": "Excellent",
+        "NumberOfRooms": 200,
+        "RoomScore": 9.2,
+        "RoomType": "Pavana Suite",
+        "BedType": "1 king bed",
+        "RoomPrice": "251,230",
+        "City": "Mae Ann",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Kirimaya Golf Resort & Spa",
+        "Location": "Khao Yai National Park, Thailand",
+        "Rating": 8.6,
+        "ReviewScore": "Excellent",
+        "NumberOfRooms": 52,
+        "RoomScore": 9.1,
+        "RoomType": "Deluxe Double Room with Golf View",
+        "BedType": "1 king bed",
+        "RoomPrice": "571,722",
+        "City": "Khao Yai National Park",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Amarin Lagoon Hotel",
+        "Location": "Phitsanulok, Thailand",
+        "Rating": 7.7,
+        "ReviewScore": "Good",
+        "NumberOfRooms": 194,
+        "RoomScore": 8.2,
+        "RoomType": "Deluxe Double Room with Garden View",
+        "BedType": "1 king bed",
+        "RoomPrice": "53,560",
+        "City": "Phitsanulok",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "The Grand Riverside Hotel",
+        "Location": "Phitsanulok, Thailand",
+        "Rating": 7.3,
+        "ReviewScore": "Good",
+        "NumberOfRooms": 60,
+        "RoomScore": 7.8,
+        "RoomType": "Superior Double Room",
+        "BedType": "1 queen bed",
+        "RoomPrice": "45,870",
+        "City": "Phitsanulok",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Blue Sky Raft",
+        "Location": "Kanchanaburi, Thailand",
+        "Rating": 7.8,
+        "ReviewScore": "Good",
+        "NumberOfRooms": 34,
+        "RoomScore": 8.3,
+        "RoomType": "Double Room",
+        "BedType": "1 full bed",
+        "RoomPrice": "44,773",
+        "City": "Kanchanaburi",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Hintok River Camp @ Hellfire Pass - SHA Extra Plus",
+        "Location": "Kanchanaburi, Thailand",
+        "Rating": 8.7,
+        "ReviewScore": "Excellent",
+        "NumberOfRooms": 38,
+        "RoomScore": 9.2,
+        "RoomType": "Deluxe Tent",
+        "BedType": "1 king bed",
+        "RoomPrice": "92,608",
+        "City": "Kanchanaburi",
+        "Country": "Thailand"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Casa del Rio Melaka",
+        "Location": "Melaka, Malaysia",
+        "Rating": 9.1,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 66,
+        "RoomScore": 9.4,
+        "RoomType": "River King Room",
+        "BedType": "1 king bed",
+        "RoomPrice": "159,261",
+        "City": "Melaka",
+        "Country": "Malaysia"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "The Ritz-Carlton, Langkawi",
+        "Location": "Kuah, Malaysia",
+        "Rating": 8.8,
+        "ReviewScore": "Excellent",
+        "NumberOfRooms": 126,
+        "RoomScore": 9.2,
+        "RoomType": "Rainforest Deluxe Room",
+        "BedType": "1 king bed",
+        "RoomPrice": "284,170",
+        "City": "Kuah",
+        "Country": "Malaysia"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Marina Bay Sands",
+        "Location": "Singapore",
+        "Rating": 9.0,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 2561,
+        "RoomScore": 9.3,
+        "RoomType": "Deluxe Double Room with City View",
+        "BedType": "1 king bed",
+        "RoomPrice": "1,234,456",
+        "City": "Singapore",
+        "Country": "Singapore"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "The Ritz-Carlton, Tokyo",
+        "Location": "Tokyo, Japan",
+        "Rating": 9.2,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 248,
+        "RoomScore": 9.5,
+        "RoomType": "Club Deluxe Room",
+        "BedType": "1 king bed",
+        "RoomPrice": "890,765",
+        "City": "Tokyo",
+        "Country": "Japan"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Jumeirah Al Qasr - Madinat Jumeirah",
+        "Location": "Dubai, United Arab Emirates",
+        "Rating": 9.1,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 294,
+        "RoomScore": 9.4,
+        "RoomType": "Ocean Suite with Balcony",
+        "BedType": "1 king bed",
+        "RoomPrice": "1,340,211",
+        "City": "Dubai",
+        "Country": "United Arab Emirates"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "The Ritz-Carlton, New York, Central Park",
+        "Location": "New York, USA",
+        "Rating": 9.0,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 253,
+        "RoomScore": 9.3,
+        "RoomType": "Deluxe King Room with City View",
+        "BedType": "1 king bed",
+        "RoomPrice": "1,565,678",
+        "City": "New York",
+        "Country": "USA"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "The Langham, Sydney",
+        "Location": "Sydney, Australia",
+        "Rating": 9.2,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 98,
+        "RoomScore": 9.4,
+        "RoomType": "Deluxe Harbour View Room",
+        "BedType": "1 king bed",
+        "RoomPrice": "1,030,987",
+        "City": "Sydney",
+        "Country": "Australia"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "The Ritz-Carlton, Paris",
+        "Location": "Paris, France",
+        "Rating": 9.3,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 200,
+        "RoomScore": 9.6,
+        "RoomType": "Deluxe Room with Eiffel Tower View",
+        "BedType": "1 king bed",
+        "RoomPrice": "1,460,789",
+        "City": "Paris",
+        "Country": "France"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "The Shard Hotel",
+        "Location": "London, United Kingdom",
+        "Rating": 8.8,
+        "ReviewScore": "Excellent",
+        "NumberOfRooms": 180,
+        "RoomScore": 9.1,
+        "RoomType": "City View King Room",
+        "BedType": "1 king bed",
+        "RoomPrice": "1,032,576",
+        "City": "London",
+        "Country": "United Kingdom"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Caesars Palace",
+        "Location": "Las Vegas, USA",
+        "Rating": 8.7,
+        "ReviewScore": "Excellent",
+        "NumberOfRooms": 4398,
+        "RoomScore": 9.0,
+        "RoomType": "Palace Premium Room with 2 Queen Beds",
+        "BedType": "2 queen beds",
+        "RoomPrice": "1,234,567",
+        "City": "Las Vegas",
+        "Country": "USA"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Burj Al Arab Jumeirah",
+        "Location": "Dubai, United Arab Emirates",
+        "Rating": 9.5,
+        "ReviewScore": "Exceptional",
+        "NumberOfRooms": 202,
+        "RoomScore": 9.8,
+        "RoomType": "One-Bedroom Suite with Sea View",
+        "BedType": "1 king bed",
+        "RoomPrice": "2,345,678",
+        "City": "Dubai",
+        "Country": "United Arab Emirates"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Fairmont Le Château Frontenac",
+        "Location": "Quebec City, Canada",
+        "Rating": 9.1,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 611,
+        "RoomScore": 9.4,
+        "RoomType": "Fairmont King Room with River View",
+        "BedType": "1 king bed",
+        "RoomPrice": "987,654",
+        "City": "Quebec City",
+        "Country": "Canada"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Taj Mahal Palace",
+        "Location": "Mumbai, India",
+        "Rating": 9.3,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 560,
+        "RoomScore": 9.6,
+        "RoomType": "Luxury Grande Room with Sea View",
+        "BedType": "1 king bed",
+        "RoomPrice": "876,543",
+        "City": "Mumbai",
+        "Country": "India"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Raffles Hotel Singapore",
+        "Location": "Singapore",
+        "Rating": 9.2,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 103,
+        "RoomScore": 9.5,
+        "RoomType": "Courtyard Suite with Private Balcony",
+        "BedType": "1 king bed",
+        "RoomPrice": "1,111,111",
+        "City": "Singapore",
+        "Country": "Singapore"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Aman Tokyo",
+        "Location": "Tokyo, Japan",
+        "Rating": 9.4,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 84,
+        "RoomScore": 9.7,
+        "RoomType": "Premier Room with Panoramic City View",
+        "BedType": "1 king bed",
+        "RoomPrice": "1,222,222",
+        "City": "Tokyo",
+        "Country": "Japan"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Amangiri",
+        "Location": "Canyon Point, USA",
+        "Rating": 9.6,
+        "ReviewScore": "Exceptional",
+        "NumberOfRooms": 34,
+        "RoomScore": 9.9,
+        "RoomType": "Desert View Suite with Pool",
+        "BedType": "1 king bed",
+        "RoomPrice": "2,222,222",
+        "City": "Canyon Point",
+        "Country": "USA"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "La Mamounia",
+        "Location": "Marrakech, Morocco",
+        "Rating": 9.0,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 209,
+        "RoomScore": 9.3,
+        "RoomType": "Koutoubia Suite with Garden View",
+        "BedType": "1 king bed",
+        "RoomPrice": "1,345,678",
+        "City": "Marrakech",
+        "Country": "Morocco"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "The Leela Palace New Delhi",
+        "Location": "New Delhi, India",
+        "Rating": 9.4,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 254,
+        "RoomScore": 9.7,
+        "RoomType": "Grand Deluxe Room",
+        "BedType": "1 king bed",
+        "RoomPrice": "876,543",
+        "City": "New Delhi",
+        "Country": "India"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Taj Lake Palace",
+        "Location": "Udaipur, India",
+        "Rating": 9.6,
+        "ReviewScore": "Exceptional",
+        "NumberOfRooms": 83,
+        "RoomScore": 9.9,
+        "RoomType": "Luxury Room with Lake View",
+        "BedType": "1 king bed",
+        "RoomPrice": "1,234,567",
+        "City": "Udaipur",
+        "Country": "India"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "The Oberoi Amarvilas",
+        "Location": "Agra, India",
+        "Rating": 9.4,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 102,
+        "RoomScore": 9.7,
+        "RoomType": "Premier Room with Taj View",
+        "BedType": "1 king bed",
+        "RoomPrice": "987,654",
+        "City": "Agra",
+        "Country": "India"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Wildflower Hall, Shimla in the Himalayas",
+        "Location": "Shimla, India",
+        "Rating": 9.2,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 85,
+        "RoomScore": 9.5,
+        "RoomType": "Premier Room with Mountain View",
+        "BedType": "1 king bed",
+        "RoomPrice": "765,432",
+        "City": "Shimla",
+        "Country": "India"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "Vivanta by Taj - Fort Aguada, Goa",
+        "Location": "Goa, India",
+        "Rating": 8.9,
+        "ReviewScore": "Excellent",
+        "NumberOfRooms": 145,
+        "RoomScore": 9.2,
+        "RoomType": "Superior Charm Garden View Room",
+        "BedType": "1 king bed",
+        "RoomPrice": "543,210",
+        "City": "Goa",
+        "Country": "India"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "The Westin Sohna Resort & Spa",
+        "Location": "Gurgaon, India",
+        "Rating": 8.7,
+        "ReviewScore": "Excellent",
+        "NumberOfRooms": 97,
+        "RoomScore": 9.0,
+        "RoomType": "Luxury Villa with Pool",
+        "BedType": "1 king bed",
+        "RoomPrice": "654,321",
+        "City": "Gurgaon",
+        "Country": "India"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "ITC Mughal, A Luxury Collection Resort & Spa, Agra",
+        "Location": "Agra, India",
+        "Rating": 8.8,
+        "ReviewScore": "Excellent",
+        "NumberOfRooms": 233,
+        "RoomScore": 9.1,
+        "RoomType": "Mughal Chambers",
+        "BedType": "1 king bed",
+        "RoomPrice": "765,432",
+        "City": "Agra",
+        "Country": "India"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "The Taj Mahal Palace, Mumbai",
+        "Location": "Mumbai, India",
+        "Rating": 9.2,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 560,
+        "RoomScore": 9.5,
+        "RoomType": "Luxury Grande Room City View",
+        "BedType": "1 king bed",
+        "RoomPrice": "1,234,567",
+        "City": "Mumbai",
+        "Country": "India"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "The Leela Palace Chennai",
+        "Location": "Chennai, India",
+        "Rating": 9.3,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 316,
+        "RoomScore": 9.6,
+        "RoomType": "Royal Club Room",
+        "BedType": "1 king bed",
+        "RoomPrice": "987,654",
+        "City": "Chennai",
+        "Country": "India"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    },
+    {
+        "HotelName": "The Oberoi, Gurgaon",
+        "Location": "Gurgaon, India",
+        "Rating": 9.4,
+        "ReviewScore": "Wonderful",
+        "NumberOfRooms": 202,
+        "RoomScore": 9.7,
+        "RoomType": "Premier Room",
+        "BedType": "1 king bed",
+        "RoomPrice": "876,543",
+        "City": "Gurgaon",
+        "Country": "India"
+        ,"Amenities": ["Free Wi-Fi", "Swimming Pool", "Restaurant", "Beach Access"]
+    }
+]

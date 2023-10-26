@@ -1,0 +1,51 @@
+.each_place{
+    margin-top: 50px;
+    padding: 20px;
+    display: flex;
+}
+.each_place .each_place_img{
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.each_place .each_place_img img{
+    width: fit-content;
+    height: 100%;
+}
+.each_place .each_place_text{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.each_place .each_place_text .name_desc{
+    margin-top: 15px;
+}
+.each_place .each_place_text .other_details p{
+    margin-top: 10px;
+}
+.each_place .each_place_text .book_btn_cont{
+    height: max-content;
+    width: 100%;
+}
+.each_place .each_place_text .book_btn_cont button{
+    height: 30px;
+    width: 100px;
+    background-color: #242424;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 1s;
+    font-weight: bold;
+    border: none;
+}
+.each_place .each_place_text .book_btn_cont button:hover{
+    background-color: white;
+      color: black;
+      border: 1px solid black;
+}

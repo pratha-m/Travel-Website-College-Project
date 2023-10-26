@@ -1,0 +1,65 @@
+.cards{
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.cards .card_items{
+  height: max-content;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.cards .card_items .each_item{
+  height: 250px;
+  width: 250px;
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+  margin: 10px;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.cards .card_items .each_item .explore_more{
+    position: absolute;
+    height: 30px;
+    width: 40px;
+    background-color: #242424;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    right: 3px;
+    top: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 1s;
+    font-weight: bold;
+}
+.cards .card_items .each_item .explore_more:hover{
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+.cards .card_items .each_item .each_item_text{
+  height: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+.cards .card_items .each_item .each_item_img{
+  height: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cards .card_items .each_item .each_item_img img{
+   height: 100%;
+   width: 100%;
+}

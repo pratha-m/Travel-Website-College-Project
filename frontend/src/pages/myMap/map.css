@@ -1,0 +1,16 @@
+.map_cont{
+    height: max-content;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    flex-direction: column;
+}
+.map_cont h1{
+    width: 100%;
+}
+.map_cont iframe{
+    height: 500px;
+    width: 90%;
+}

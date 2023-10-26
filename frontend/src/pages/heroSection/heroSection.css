@@ -1,0 +1,201 @@
+.hero_img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+  }
+  
+  .hero-container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.2);
+    object-fit: contain;
+  
+  }
+  
+  .hero-container > h1 {
+    color: #fff;
+    font-size: 80px;
+    margin-top: -100px;
+  }
+  
+  .hero-container > p {
+    margin-top: 8px;
+    color: #fff;
+    font-size: 32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  .hero-btn {
+    padding: 12px 26px;
+    border-radius: 2px;
+    outline: none;
+    border: 1px solid #242424;
+    cursor: pointer;
+    background-color: #242424;
+    color: #fff;
+    font-size: 20px;
+  }
+  
+  .hero-btn:hover {
+    background-color: #fff;
+    color: #242424;
+    border: 1px solid #242424;
+  }
+  
+  .search {
+    margin: 6rem auto 0;
+    display: flex;
+    padding: 0.8rem 0.4rem;
+    border-radius: 0.5rem;
+    background: #fff;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  
+  }
+  
+  .search-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 1.5rem;
+    position: relative;
+  }
+  .search-container .searchDropdown{
+    position: absolute;
+    width: 100%;
+    background-color: white;
+    top: 65px;
+    z-index: 1;
+    box-shadow: 0px 1px 4px rgba(0,0,0,.7);
+    border-radius: 10px;
+    max-height: 200px;
+    overflow-y: auto;
+    /* display: none; */
+  }
+  .search-container .searchDropdown .eachSearchRes{
+     min-height: 40px;
+     width: 100%;
+     height: max-content;
+     display: flex;
+     align-items: center;
+     cursor: pointer;
+     display: flex;
+     padding: 10px;
+  }
+  .search-container .searchDropdown .eachSearchRes input{
+        height: 20px;
+        width: 20px; 
+  }
+  .search-container .searchDropdown .eachSearchRes div{
+    width: 100%;
+  }
+  .search-container .searchDropdown .eachSearchRes div:first-child{
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .search-container .searchDropdown .eachSearchRes div:last-child{
+    /* font-size: 14px; */
+    /* color: rgb(160, 153, 153); */
+  }
+  .search-container .searchDropdown .eachSearchRes:hover{
+    background-color: rgb(208, 208, 215);
+  }
+  .search-container > label {
+    font-size: 1.3rem;
+    color: #242424;
+    padding-bottom: 0.6rem;
+  }
+  
+  .search-container > input {
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #fff;
+    color: #242424;
+    padding: 0.2rem;
+    border-radius: 0.2rem;
+    font-size: 1rem;
+    outline: 1px solid black;
+  }
+  .search-container > input:focus {
+    outline: 1px solid #242424;
+  }
+  
+  .row-container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  @media screen and (max-width: 960px) {
+    .hero-container > h1 {
+      font-size: 70px;
+      margin-top: -150px;
+    }
+  
+    .search-container {
+      padding: 0 0.8rem;
+    }
+  
+    .search-container > label {
+      font-size: 1rem;
+      color: #242424;
+      padding-bottom: 0.4rem;
+    }
+  
+    .search-container > input {
+      font-size: 0.8rem;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .hero-container > h1 {
+      font-size: 40px;
+      margin-top: 30px;
+    }
+  
+    .hero-container > p {
+      font-size: 30px;
+    }
+  
+    .btn-mobile {
+      display: block;
+      text-decoration: none;
+    }
+  
+    .btn {
+      max-width: 100%;
+    }
+  
+    .search {
+      flex-direction: column;
+      align-items: center;
+      width: 80%;
+      padding: 0.8rem;
+      gap: 2rem;
+      margin: 2rem auto 0;
+     /* flex-direction: column;
+      padding: 0.8rem;
+      gap: 0.8rem;
+      width: 80%;
+      */
+    }
+  
+    .search-container {
+      padding: 0 0.8rem;
+    }
+  
+    .search-container > label {
+      font-size: 1.2rem;
+      color: #242424;
+      padding-bottom: 0.4rem;
+    }
+  
+    .search-container > input {
+      text-align: center;
+    }
+  }

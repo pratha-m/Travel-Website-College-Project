@@ -1,0 +1,112 @@
+[
+    {
+      "name": "Machu Picchu, Peru",
+      "description": "Ancient Inca Ruins in the Andes",
+      "image_url": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFjaHUlMjBwaWNjaHV8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+      "details": {
+        "population": 0,
+        "area_sq_km": 0,
+        "currency": "Peruvian Sol",
+        "language": "Quechua, Spanish"
+      }
+    },
+    {
+      "name": "Dubai, UAE",
+      "description": "Modern City with Luxury Shopping",
+      "image_url": "https://www.traveloffpath.com/wp-content/uploads/2022/11/Flying-To-Dubai-UAE-Finally-Lifts-All-Entry-Requirements-Returning-To-Normal-Travel-edited-scaled.jpg.webp",
+      "details": {
+        "population": 3137000,
+        "area_sq_km": 4114,
+        "currency": "UAE Dirham",
+        "language": "Arabic"
+      }
+    },
+    {
+      "name": "Santorini, Greece",
+      "description": "Picturesque Island in the Aegean Sea",
+      "image_url": "https://lp-cms-production.imgix.net/2021-05/shutterstockRF_1563449509.jpg?auto=format&w=1440&h=810&fit=crop&q=75",
+      "details": {
+        "population": 15373,
+        "area_sq_km": 96.21,
+        "currency": "Euro",
+        "language": "Greek"
+      }
+    },
+    {
+      "name": "Bali, Indonesia",
+      "description": "Tropical Paradise with Beautiful Beaches",
+      "image_url": "https://a.cdn-hotels.com/gdcs/production143/d1112/c4fedab1-4041-4db5-9245-97439472cf2c.jpg",
+      "details": {
+        "population": 418914,
+        "area_sq_km": 5780,
+        "currency": "Indonesian Rupiah",
+        "language": "Indonesian, Balinese"
+      }
+    },
+    {
+      "name": "Cairo, Egypt",
+      "description": "Home to the Ancient Pyramids",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Cairo_From_Tower_%28cropped%29.jpg",
+      "details": {
+        "population": 9504551,
+        "area_sq_km": 606.85,
+        "currency": "Egyptian Pound",
+        "language": "Arabic"
+      }
+    },
+    {
+      "name": "Budapest, Hungary",
+      "description": "City of Thermal Baths and Rich History",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Budapest_Hungarian_Parliament_%2831363963556%29.jpg",
+      "details": {
+        "population": 1749734,
+        "area_sq_km": 525.16,
+        "currency": "Hungarian Forint",
+        "language": "Hungarian"
+      }
+    },
+    {
+      "name": "Amsterdam, Netherlands",
+      "description": "Canals, Bicycles, and Art Museums",
+      "image_url": "https://cdn.britannica.com/30/180130-138-4FC01CDD/Overview-Amsterdam.jpg?w=800&h=450&c=crop",
+      "details": {
+        "population": 872680,
+        "area_sq_km": 219.32,
+        "currency": "Euro",
+        "language": "Dutch"
+      }
+    },
+    {
+      "name": "San Francisco, USA",
+      "description": "Famous for the Golden Gate Bridge",
+      "image_url": "https://cdn.britannica.com/13/77413-050-95217C0B/Golden-Gate-Bridge-San-Francisco.jpg",
+      "details": {
+        "population": 883305,
+        "area_sq_km": 600.59,
+        "currency": "US Dollar",
+        "language": "English"
+      }
+    },
+    {
+      "name": "Phuket, Thailand",
+      "description": "Tropical Island Paradise",
+      "image_url": "https://touringhighlights.com/wp-content/uploads/2020/09/Phang-Nga-Bay-Phuket-Thailand.jpg",
+      "details": {
+        "population": 420364,
+        "area_sq_km": 576,
+        "currency": "Thai Baht",
+        "language": "Thai"
+      }
+    },
+    {
+      "name": "Prague, Czech Republic",
+      "description": "Historic City with Stunning Architecture",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_%286365119737%29.jpg/800px-Prague_%286365119737%29.jpg",
+      "details": {
+        "population": 1307997,
+        "area_sq_km": 496,
+        "currency": "Czech Koruna",
+        "language": "Czech"
+      }
+    }
+  ]
